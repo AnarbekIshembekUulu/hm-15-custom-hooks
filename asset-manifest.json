@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hm-15-custom-hooks/static/css/main.75435621.css",
+    "main.js": "/hm-15-custom-hooks/static/js/main.356d2506.js",
+    "static/js/787.6db822aa.chunk.js": "/hm-15-custom-hooks/static/js/787.6db822aa.chunk.js",
+    "static/media/Cyber Wallpaper 4k   Wallpapers For Tech   Technology Wallpaper.png": "/hm-15-custom-hooks/static/media/Cyber Wallpaper 4k   Wallpapers For Tech   Technology Wallpaper.0b176ef166561eed7ae0.png",
+    "index.html": "/hm-15-custom-hooks/index.html",
+    "main.75435621.css.map": "/hm-15-custom-hooks/static/css/main.75435621.css.map",
+    "main.356d2506.js.map": "/hm-15-custom-hooks/static/js/main.356d2506.js.map",
+    "787.6db822aa.chunk.js.map": "/hm-15-custom-hooks/static/js/787.6db822aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75435621.css",
+    "static/js/main.356d2506.js"
+  ]
+}
